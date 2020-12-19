@@ -1,3 +1,5 @@
+<img src="https://github-readme-stats.vercel.app/api?username=frkesen&show_icons=true&theme=dark">
+
 ## Hi there 👋 I'm a Full Stack Developer...
 
 <img src="animation_500_kd7ngokt.gif" alt="react-native" width=200 height=200 align="right">
