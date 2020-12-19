@@ -1,5 +1,3 @@
-<img src="https://github-readme-stats.vercel.app/api?username=frkesen&show_icons=true&theme=dark">
-
 ## Hi there 👋 I'm a Full Stack Developer...
 
 <img src="animation_500_kd7ngokt.gif" alt="react-native" width=200 height=200 align="right">
@@ -30,3 +28,5 @@ You may find some experimental and forked projects on my repos, feel free to con
 <a href="https://medium.com/@farukesen5555" target="_blank">
     <img src="https://img.shields.io/badge/%20-medium-black" alt="https://medium.com/@farukesen5555">
 </a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=frkesen&show_icons=true&theme=dark">
