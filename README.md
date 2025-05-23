@@ -15,9 +15,6 @@
 
 You may find some experimental and forked projects on my repos, feel free to contribute or using them. 💪
 
-<a href="https://www.linkedin.com/in/faruk-e/" target="_blank">
-    <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/faruk-e/">
-</a>
 <a href="mailto:felixfranko66@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:felixfranko66@gmail.com">
 </a>
